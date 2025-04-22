@@ -50,4 +50,4 @@ In combinecells.ipynb, edits file paths to MCGaze model checkpoints.
 In run_system.ipynb, edit file paths to your video.
 
 ### Run
-Run all cells in run_system.ipynb. logs will be saved in the form of {video name}_gaze_gaze_behavior_log.txt. video results will be saved to processed_videos in the form of {video name}_results.mp4
+Run all cells in run_system.ipynb. logs will be saved in the form of {video name}_gaze_gaze_behavior_log.txt. video results will be saved in the form of {video name}_results.mp4
